@@ -94,6 +94,27 @@ ___________________
     OBJETO DEL EQUIPO
       El equivalente a una carta de equipo.
     TABLERO  
+      Establecer el tipo de tablero según el juego elegido. En el caso del Zombicide una primera versión podría incluir bloques de 9 posiciones (casillas o cuadrantes), teniendo una casilla central y el 8 restantes que la envuelven. Para cada casilla podemos establecer la accesibilidad y la visión. Indicando si podemos pasar o ver a través de las 4 direcciones posibles una vez estamos en una casilla.
+      En Zombicide existen instancias que ocupan más de 1 casilla de esas 9 que forman un bloque, por lo que podríamos tener que definir un objeto habitación que pueda estar formado por 1 o más casillas.Pero esto ya se irá definiendo.
     CIUDADANO
+      Modelar las opciones de las personas que no son héroes y que aparecen en determinados escenarios.
     TURNO
       No se si está definido como objeto o será realmente el desarrollo de la aplicación una vez iniciada la partida la que lo determina, pero en todo caso lo que quiero expresar es que de alguna manera se ha definir esa secuencia de acciones.
+    JUEGO
+      En previsión de futuro vamos a dejar el aplicativo abierto a diferentes juegos y por lo tanto definiremos el juego al que estamos jugando de entre una lista de posibles.
+
+
+  ---------------------------------------------------
+  Funcionamiento de las primeras versiones de la App:
+  ---------------------------------------------------
+
+    El desarrollo será textual, es decir que cuando no tengamos implementada una opción del juego simplemente se mostrará por pantalla un mensaje indicando lo que haría dicha opción. De esta forma conforme se vaya creciendo en el proyecto se irán mostrando las rutas a seguir en el desarrollo de la misma. 
+
+
+  -----------------------
+  Modo gráfico de la App:
+  -----------------------
+
+    Aunque ya se ha comentado que la parte gráfica no es el objetivo de esta app, el objetivo es que esta aplicación pueda ejecutarse en cualquier dispositivo: ordenador con navegador, android movil o tablet. La adaptabilidad de la pantalla a estos dispositivos será el objetivo fundamental en el desarrollo de fases posteriores en el que el aspecto gráfico sea importante. Los dispositivos Linux o Apple seguramente quedarán excluídos por falta de conocimiento.
+
+  
