@@ -88,8 +88,12 @@ ___________________
   ----------------------------
   
     HEROE
+      Definición de nuestros héroes: rasgos como la vida, acciones, habilidades, ... 
     ZOMBIE
+      Todo enemigo será catalogado dentro de la aplicación como un zombie, de momento no está abierto el que existan enemigos que no sean zombies, eso quedará para versiones posteriores.
     OBJETO DEL EQUIPO
-    TABLERO
+      El equivalente a una carta de equipo.
+    TABLERO  
     CIUDADANO
     TURNO
+      No se si está definido como objeto o será realmente el desarrollo de la aplicación una vez iniciada la partida la que lo determina, pero en todo caso lo que quiero expresar es que de alguna manera se ha definir esa secuencia de acciones.
