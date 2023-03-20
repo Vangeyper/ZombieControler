@@ -108,13 +108,13 @@ ___________________
   Funcionamiento de las primeras versiones de la App:
   ---------------------------------------------------
 
-    El desarrollo será textual, es decir que cuando no tengamos implementada una opción del juego simplemente se mostrará por pantalla un mensaje indicando lo que haría dicha opción. De esta forma conforme se vaya creciendo en el proyecto se irán mostrando las rutas a seguir en el desarrollo de la misma. 
+    El desarrollo será textual, es decir que cuando no tengamos implementada una opción del juego simplemente se mostrará por pantalla un mensaje indicando lo que haría dicha opción. De esta forma conforme vaya creciendo el proyecto se irán mostrando las rutas a seguir en el desarrollo del mismo. 
 
 
   -----------------------
   Modo gráfico de la App:
   -----------------------
 
-    Aunque ya se ha comentado que la parte gráfica no es el objetivo de esta app, el objetivo es que esta aplicación pueda ejecutarse en cualquier dispositivo: ordenador con navegador, android movil o tablet. La adaptabilidad de la pantalla a estos dispositivos será el objetivo fundamental en el desarrollo de fases posteriores en el que el aspecto gráfico sea importante. Los dispositivos Linux o Apple seguramente quedarán excluídos por falta de conocimiento.
+    Aunque ya se ha comentado que la parte gráfica no es el objetivo de esta app, el objetivo sería que pueda ejecutarse en cualquier dispositivo: ordenador con navegador, android movil o tablet. La adaptabilidad de la pantalla a estos dispositivos será el objetivo fundamental en el desarrollo de fases posteriores en el que el aspecto gráfico sea importante. Los dispositivos Linux o Apple seguramente quedarán excluídos por falta de conocimiento.
 
   

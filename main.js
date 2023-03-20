@@ -2,14 +2,13 @@ import './style.css'
 
 
 document.querySelector('#app').innerHTML = `
-  <div>
-
-    <h1>Zombi Controler v1.0</h1>
-    <div class="Juego">
-      
-    </div>
-
+  <h2>Zombicide by ZombieControler v1.0.0</h2>  
+  <div id="Turno">
+    <h3>Datos del Turno</h3>            
   </div>
+  <div id="Tablero">
+    <h3>Terreno de Juego</h3>
+  </div>        
 `;
 
 
